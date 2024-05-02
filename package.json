@@ -1,0 +1,22 @@
+{
+  "name": "dg-utilities",
+  "version": "1.0.0",
+  "description": "utility package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idineshgarg/utility-package.git"
+  },
+  "keywords": [
+    "utility"
+  ],
+  "author": "Dinesh Garg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idineshgarg/utility-package/issues"
+  },
+  "homepage": "https://github.com/idineshgarg/utility-package#readme"
+}
