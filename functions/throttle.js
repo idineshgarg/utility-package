@@ -12,3 +12,4 @@ export function throttle(cb, timer) {
     }, timer);
   };
 }
+export { throttle };
